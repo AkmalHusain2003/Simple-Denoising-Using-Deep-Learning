@@ -2,7 +2,7 @@
 Denoising of Speech Voice Using R-CNN (Recurrent-Convolutional Neural Network). The model achieves solid perceptual quality (PESQ **2.445**) and excellent intelligibility (STOI **0.922**), confirming that the denoising pipeline reliably restores speech while preserving clarity.
 
 <p align="center">
-  <img src="Arch_main_RCNN" width="100%">
+  <img src="Arch_main_RCNN.png" width="100%">
 </p>
 
 ## Datasets Used for Training and Testing
