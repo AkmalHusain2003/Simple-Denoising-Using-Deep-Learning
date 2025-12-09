@@ -1,4 +1,4 @@
-# Simple-Denoising-Using-Deep-Learning
+# Denoising Voice Using Deep Learning
 Denoising of Speech Voice Using R-CNN (Recurrent-Convolutional Neural Network)
 
 ## Datasets Used for Training and Testing
